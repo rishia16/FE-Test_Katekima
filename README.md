@@ -1,13 +1,13 @@
 # FE-Test_Katekima
 
-Project Setup
+# Project Setup
 npm install
 
-Compile and Hot-Reload for Development
+# Compile and Hot-Reload for Development
 npm run dev
 
-Type-Check, Compile and Minify for Production
+# Type-Check, Compile and Minify for Production
 npm run build
 
-Lint with ESLint
+# Lint with ESLint
 npm run lint
